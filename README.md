@@ -8,3 +8,4 @@ This is the final presentation to deliver the solution to HUG's stakeholders.
 This is the architecture representation of the final solution for migrating services from On-premises to Azure for the HUG company
 
 # Azure Policy (built-in policies to be compliant with HIIPA)
+Set of policies to be applied to achieve compliance in HIIPA standards
